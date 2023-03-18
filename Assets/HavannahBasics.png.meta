@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 126b747641bdfba4fae44372b7cf8cb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6231115017192252343
+    second: HavannahBasics_0
+  - first:
+      213: 5762419023644777535
+    second: HavannahBasics_1
+  - first:
+      213: -4379628159333237236
+    second: HavannahBasics_2
+  - first:
+      213: -3059863518391150368
+    second: HavannahBasics_3
+  - first:
+      213: 3088959140127707151
+    second: HavannahBasics_4
+  - first:
+      213: -5019536974696302910
+    second: HavannahBasics_5
+  - first:
+      213: -6635602132606451327
+    second: HavannahBasics_6
+  - first:
+      213: 7809077203392192731
+    second: HavannahBasics_7
+  - first:
+      213: 2943762546916316285
+    second: HavannahBasics_8
+  - first:
+      213: 4843701647046058997
+    second: HavannahBasics_9
+  - first:
+      213: -1513676767806017458
+    second: HavannahBasics_10
+  - first:
+      213: 917234854729796999
+    second: HavannahBasics_11
+  - first:
+      213: -4178605826842061873
+    second: HavannahBasics_12
+  - first:
+      213: -4937281661513866319
+    second: HavannahBasics_13
+  - first:
+      213: -6641776499286595936
+    second: HavannahBasics_14
+  - first:
+      213: -6851666897428979285
+    second: HavannahBasics_15
+  - first:
+      213: 2162481452264959727
+    second: HavannahBasics_16
+  - first:
+      213: 2454551311750686407
+    second: HavannahBasics_17
+  - first:
+      213: 8240326006383046728
+    second: HavannahBasics_18
+  - first:
+      213: 2490855234164658756
+    second: HavannahBasics_19
+  - first:
+      213: 4550661078064062634
+    second: HavannahBasics_20
+  - first:
+      213: -6167485976479534836
+    second: HavannahBasics_21
+  - first:
+      213: 403818639299502517
+    second: HavannahBasics_22
+  - first:
+      213: -6157033460021004586
+    second: HavannahBasics_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HavannahBasics_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 165
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c57add7e1a689a0800000000000000
+      internalID: -6231115017192252343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 427
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cdc47429938ff40800000000000000
+      internalID: 5762419023644777535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 416
+        width: 119
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ef4a2b46f6833c0800000000000000
+      internalID: -4379628159333237236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 427
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e85e15875e2985d0800000000000000
+      internalID: -3059863518391150368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_4
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 427
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f001201d8ff2eda20800000000000000
+      internalID: 3088959140127707151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_5
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 416
+        width: 119
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6b94657b5075ab0800000000000000
+      internalID: -5019536974696302910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 304
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1810b2f640b99e3a0800000000000000
+      internalID: -6635602132606451327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 304
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0eacb975a6f5c60800000000000000
+      internalID: 7809077203392192731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 293
+        width: 119
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74db0090785ad820800000000000000
+      internalID: 2943762546916316285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_9
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 304
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3a7262cf8483340800000000000000
+      internalID: 4843701647046058997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 304
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40392edff65efae0800000000000000
+      internalID: -1513676767806017458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_11
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 293
+        width: 119
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dc6cb9d3caabc00800000000000000
+      internalID: 917234854729796999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 175
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc393b2c32c9206c0800000000000000
+      internalID: -4178605826842061873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 175
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b36a69dc704b7bb0800000000000000
+      internalID: -4937281661513866319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 164
+        width: 119
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a62c7aa67ba3d3a0800000000000000
+      internalID: -6641776499286595936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_15
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 175
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1617b224df9e0a0800000000000000
+      internalID: -6851666897428979285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_16
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 175
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeaf9b6c6da20e10800000000000000
+      internalID: 2162481452264959727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_17
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 164
+        width: 119
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c66edbc961501220800000000000000
+      internalID: 2454551311750686407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 46
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840ffdbf7d48b5270800000000000000
+      internalID: 8240326006383046728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_19
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 46
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4429e4b63ab419220800000000000000
+      internalID: 2490855234164658756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_20
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 35
+        width: 119
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0643bd322372f30800000000000000
+      internalID: 4550661078064062634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_21
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 46
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01fbbe5e20b86aa0800000000000000
+      internalID: -6167485976479534836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_22
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 46
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1e025b9e6aa9500800000000000000
+      internalID: 403818639299502517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HavannahBasics_23
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 35
+        width: 119
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6f04180b2dd8aa0800000000000000
+      internalID: -6157033460021004586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

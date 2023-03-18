@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d725691b18860c8408c4be7e9ca28514, type: 3}
+  m_Name: Inorganics
+  m_EditorClassIdentifier: 
+  Continues: 0
+  skillName: Inorganics
+  skillFatigue: 1
+  skillCycle: 0
+  skillPoints: 0
+  skillLevel: 1
+  skillIcon: {fileID: -1397331499403167254, guid: 069ec2cdd22b7cb479e9e0d4a1b6ee16,
+    type: 3}
+  skillColor: {r: 0.8941177, g: 0.5058824, b: 0.14509805, a: 1}
+  LastUpdated: 2020-12-19 11:11:34

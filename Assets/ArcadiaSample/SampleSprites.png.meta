@@ -1,0 +1,852 @@
+fileFormatVersion: 2
+guid: b6523acb152ebb24784b9cc4d5fc3a75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4679685265600670565
+    second: StarGrinderSprites_0
+  - first:
+      213: -1028868017317105802
+    second: StarGrinderSprites_1
+  - first:
+      213: 221921157440459895
+    second: StarGrinderSprites_2
+  - first:
+      213: 8192796417679078515
+    second: StarGrinderSprites_3
+  - first:
+      213: 4551042395709335445
+    second: StarGrinderSprites_4
+  - first:
+      213: -3302980976317098787
+    second: StarGrinderSprites_5
+  - first:
+      213: -232269872702402401
+    second: StarGrinderSprites_6
+  - first:
+      213: -3569358213256552860
+    second: StarGrinderSprites_7
+  - first:
+      213: -8077822316045136304
+    second: StarGrinderSprites_8
+  - first:
+      213: 1853668689630365241
+    second: StarGrinderSprites_9
+  - first:
+      213: 4191106143067642888
+    second: StarGrinderSprites_10
+  - first:
+      213: 1975955274770356131
+    second: StarGrinderSprites_11
+  - first:
+      213: -2297055031666225659
+    second: StarGrinderSprites_12
+  - first:
+      213: -3839700264542245604
+    second: StarGrinderSprites_13
+  - first:
+      213: 8657840643994240142
+    second: StarGrinderSprites_14
+  - first:
+      213: 1568191887011329965
+    second: StarGrinderSprites_15
+  - first:
+      213: -5529103136512588133
+    second: StarGrinderSprites_16
+  - first:
+      213: 3815972058014982166
+    second: StarGrinderSprites_17
+  - first:
+      213: -4968820445689581873
+    second: StarGrinderSprites_18
+  - first:
+      213: 3047418617616887589
+    second: StarGrinderSprites_19
+  - first:
+      213: -684219758681368846
+    second: StarGrinderSprites_20
+  - first:
+      213: -128110018009531097
+    second: StarGrinderSprites_21
+  - first:
+      213: 6286788140839884812
+    second: StarGrinderSprites_22
+  - first:
+      213: 2545558673200514802
+    second: StarGrinderSprites_23
+  - first:
+      213: 4672633679022844797
+    second: StarGrinderSprites_24
+  - first:
+      213: -3410303368127612673
+    second: StarGrinderSprites_25
+  - first:
+      213: -5135775857597363129
+    second: StarGrinderSprites_26
+  - first:
+      213: 4424927198559287254
+    second: StarGrinderSprites_27
+  - first:
+      213: 4047015284819139131
+    second: StarGrinderSprites_28
+  - first:
+      213: -4745011351454589865
+    second: StarGrinderSprites_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StarGrinderSprites_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 829
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b396a60bb1aa124bbf6bcc28eb810c5
+      internalID: 4679685265600670565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 774
+        width: 97
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dfbb67542fe204aafc7b8a95d50ae2
+      internalID: -1028868017317105802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 775
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6188859b079d041a4e3960417b5d5a
+      internalID: 221921157440459895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 694
+        width: 127
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7f6a288cbeaa541aec06c56a93def5
+      internalID: 8192796417679078515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 693
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae784d10f9013e5488e109db48ba7e09
+      internalID: 4551042395709335445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 693
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c064118cd06b5234f8ad4609784f200e
+      internalID: -3302980976317098787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 573
+        width: 150
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3121dab7ca8b4cf429117588a213319d
+      internalID: -232269872702402401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 587
+        width: 146
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67a942c94975ae4dab9160df57d3113
+      internalID: -3569358213256552860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 453
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3fd6164cd5e6b4683b00e03baaa052
+      internalID: -8077822316045136304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 452
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790c849ed4174e04e90d586b1ce197c6
+      internalID: 1853668689630365241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 451
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79058ebb19afbb64095711012d39e59b
+      internalID: 4191106143067642888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 450
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e930ac37ae1edfb4aa4260cf0ebe71fd
+      internalID: 1975955274770356131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 343
+        width: 101
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43221dd1dfaa5f644aa8574d684418e0
+      internalID: -2297055031666225659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 340
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28b3bbad11b69947a79757b4aac1539
+      internalID: -3839700264542245604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_14
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 341
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f88a8041572474aa018ffd7edf0cec
+      internalID: 8657840643994240142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_15
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 339
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdffdacd62f344742869a0dbaf465396
+      internalID: 1568191887011329965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 239
+        width: 101
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e001955bd019b4e945416e5ae5d07e
+      internalID: -5529103136512588133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 237
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260e3fd3bf3dd7c46bf718b0c2f2a45c
+      internalID: 3815972058014982166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 236
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d47f40ef9f62544b057b910ac4d4f7
+      internalID: -4968820445689581873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_19
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 235
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dad6df4d5021b40994e0445aeaf309
+      internalID: 3047418617616887589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 140
+        width: 98
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b5531413c397044a0c0a59ef288a56
+      internalID: -684219758681368846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 139
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb627e16307d154aa1f3d2c48a7bfd3
+      internalID: -128110018009531097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_22
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 138
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199a58af082d1c042abd37af236d0da3
+      internalID: 6286788140839884812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_23
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 136
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cc6d83ac5c41843ba647e04f73a4d7
+      internalID: 2545558673200514802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 50
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb1b432ec0c0cd4aa5c6c634c496e6e
+      internalID: 4672633679022844797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 47
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc84da8dd19e8a344b1071aad2ddef17
+      internalID: -3410303368127612673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 47
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370f125b2c6106e4bbe6e7c84826040f
+      internalID: -5135775857597363129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_27
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 45
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95de94d4f31ab9a47894ddceda6d766d
+      internalID: 4424927198559287254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_28
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 579
+        width: 156
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551a414b70e94484fb480c60fc3d555b
+      internalID: 4047015284819139131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarGrinderSprites_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 750
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300192c79a3df3b4e81e1d1af8de227f
+      internalID: -4745011351454589865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

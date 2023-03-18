@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 25ecc89996f52d04ba56178674cfbe71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -639906108785125169
+    second: PrimerButtons_0
+  - first:
+      213: 6419031586108623353
+    second: PrimerButtons_1
+  - first:
+      213: -6174357557180214869
+    second: PrimerButtons_2
+  - first:
+      213: -8365876717140125923
+    second: PrimerButtons_3
+  - first:
+      213: 4212300516942842382
+    second: PrimerButtons_4
+  - first:
+      213: 2753905439128297814
+    second: PrimerButtons_5
+  - first:
+      213: 7257675877227674789
+    second: PrimerButtons_6
+  - first:
+      213: 3461560529634931266
+    second: PrimerButtons_7
+  - first:
+      213: 4869299485419547857
+    second: PrimerButtons_8
+  - first:
+      213: 3332673664381037808
+    second: PrimerButtons_9
+  - first:
+      213: -6771244755658313825
+    second: PrimerButtons_10
+  - first:
+      213: 1295556457533268852
+    second: PrimerButtons_11
+  - first:
+      213: 6568879536139297972
+    second: PrimerButtons_12
+  - first:
+      213: -3432302832694990426
+    second: PrimerButtons_13
+  - first:
+      213: -383358582705054761
+    second: PrimerButtons_14
+  - first:
+      213: -6024328323352811798
+    second: PrimerButtons_15
+  - first:
+      213: -5589931208772379836
+    second: PrimerButtons_16
+  - first:
+      213: 4852565348298041346
+    second: PrimerButtons_17
+  - first:
+      213: 2295968702227692709
+    second: PrimerButtons_18
+  - first:
+      213: -7809200719030279373
+    second: PrimerButtons_19
+  - first:
+      213: -595324676850905676
+    second: PrimerButtons_20
+  - first:
+      213: 1814334715605632049
+    second: PrimerButtons_21
+  - first:
+      213: -1157061904577609140
+    second: PrimerButtons_22
+  - first:
+      213: 6556007076378445142
+    second: PrimerButtons_23
+  - first:
+      213: 7908202216399020034
+    second: PrimerButtons_24
+  - first:
+      213: -5625076008245618993
+    second: PrimerButtons_25
+  - first:
+      213: -2627163044843379619
+    second: PrimerButtons_26
+  - first:
+      213: 705816042237881151
+    second: PrimerButtons_27
+  - first:
+      213: -87216769777535592
+    second: PrimerButtons_28
+  - first:
+      213: 4501226129558060270
+    second: PrimerButtons_29
+  - first:
+      213: -8444063387456438017
+    second: PrimerButtons_30
+  - first:
+      213: 8324336079936001669
+    second: PrimerButtons_31
+  - first:
+      213: 2707970113069373250
+    second: PrimerButtons_32
+  - first:
+      213: 6152238831728827622
+    second: PrimerButtons_33
+  - first:
+      213: 8451780826746448902
+    second: PrimerButtons_34
+  - first:
+      213: 7656516142509434747
+    second: PrimerButtons_35
+  - first:
+      213: -6969962548572366156
+    second: PrimerButtons_36
+  - first:
+      213: 6347855840578000983
+    second: PrimerButtons_37
+  - first:
+      213: 670831336626792663
+    second: PrimerButtons_38
+  - first:
+      213: -4032327174746619097
+    second: PrimerButtons_39
+  - first:
+      213: -4027353343910029885
+    second: PrimerButtons_40
+  - first:
+      213: 5836612171856306904
+    second: PrimerButtons_41
+  - first:
+      213: 4372283017513038305
+    second: PrimerButtons_42
+  - first:
+      213: 1588678450670930601
+    second: PrimerButtons_43
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PrimerButtons_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 860
+        width: 152
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2e862ea18993e4fb84a164ff12c50f
+      internalID: -639906108785125169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 782
+        width: 152
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d71640fc7fa53448b9bd2dc73fecae
+      internalID: 6419031586108623353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 783
+        width: 273
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998eab669f5849c4e92d375df22d8056
+      internalID: -6174357557180214869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 778
+        width: 155
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312c600c923512c4eb97b61541c1a1bd
+      internalID: -8365876717140125923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_4
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 779
+        width: 155
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7156b862abd188840a997f34b2b79c4f
+      internalID: 4212300516942842382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 704
+        width: 152
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aed3a739376d942a47a79e9304d8da
+      internalID: 2753905439128297814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 702
+        width: 273
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca850bf78320c2f439eed19efa28ddcc
+      internalID: 7257675877227674789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 698
+        width: 155
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bbcc34ae150044fbc08bc8d1d73e69
+      internalID: 3461560529634931266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_8
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 698
+        width: 155
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1f4ad3d469dd04895952467a0fba03
+      internalID: 4869299485419547857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 626
+        width: 152
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435eefc0b562a4d478abb6a31a5e066c
+      internalID: 3332673664381037808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 627
+        width: 273
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fb9f0c05dccbd499c8f9cd09ecd504
+      internalID: -6771244755658313825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_11
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 621
+        width: 155
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca4f1a6b3f1fb744bd2e592e6e1d814
+      internalID: 1295556457533268852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_12
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 621
+        width: 155
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3e4c73adb393441ad089e63c9855d2
+      internalID: 6568879536139297972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 526
+        width: 176
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24b1d6b40002f840b1e48109f236f62
+      internalID: -3432302832694990426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 528
+        width: 237
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37eff984fd1bba748bf633d0016a5132
+      internalID: -383358582705054761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_15
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 543
+        width: 155
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1533cee27fed0e74f9346f011f80c571
+      internalID: -6024328323352811798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_16
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 542
+        width: 155
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491da6c24d1314f4c9fd4d39d63b4317
+      internalID: -5589931208772379836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 448
+        width: 176
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b65e1373a71604283501d95563c8c2
+      internalID: 4852565348298041346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 446
+        width: 237
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a2bbfc8eccbd94ebeffc401f5bb6c7
+      internalID: 2295968702227692709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 439
+        width: 136
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610dab3a35bfd08469ee33d8d63fa6cd
+      internalID: -7809200719030279373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_20
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 439
+        width: 137
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf50add5e32f7043bfc578e65b81c54
+      internalID: -595324676850905676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 375
+        width: 176
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc16e68181d6d21449ed900a71e241f8
+      internalID: 1814334715605632049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_22
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 371
+        width: 237
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea7b7cc11fbf004bb0ca488e2fcf660
+      internalID: -1157061904577609140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 374
+        width: 136
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e5a0da806a1e04b94d47eb8242636d
+      internalID: 6556007076378445142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_24
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 372
+        width: 137
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eee630d313aebe4d8012bf27772477a
+      internalID: 7908202216399020034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 300
+        width: 176
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b4c2a7dcbfc4247928564e9cf925a3
+      internalID: -5625076008245618993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 306
+        width: 136
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbd18f1498e46b4cb23a5a7aa61e00b
+      internalID: -2627163044843379619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_27
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 304
+        width: 137
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a340212d82a8d0e41af0f56e917a0350
+      internalID: 705816042237881151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_28
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 306
+        width: 137
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f1ba3ff99a0b54fa7ccf40960dc1bf
+      internalID: -87216769777535592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_29
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 238
+        width: 136
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72d457864605ae4b9cf669068076dec
+      internalID: 4501226129558060270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_30
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 239
+        width: 137
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46243e30941bf1f4fa3b0b03947d0eaa
+      internalID: -8444063387456438017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_31
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 237
+        width: 137
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a656e3f78f151943a07f54729d1744f
+      internalID: 8324336079936001669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 37
+        width: 792
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcd3c081da1c89419ee4f5ddd264e55
+      internalID: 2707970113069373250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_33
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 166
+        width: 136
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a9193ca72790242bc91b47687fc025
+      internalID: 6152238831728827622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_34
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 165
+        width: 137
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92cf047f30a9154e9b9562d40a6c29f
+      internalID: 8451780826746448902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_35
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 775
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d6c1bcb46255946a8f52b88b5c16d4
+      internalID: 7656516142509434747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_36
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 683
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd41909f1298b44f91f1a86f3140950
+      internalID: -6969962548572366156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_37
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 602
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732230f7b2afa5740b35eabbe986a691
+      internalID: 6347855840578000983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_38
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 774
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26200267a22ba14987952ccb98198bf
+      internalID: 670831336626792663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_39
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 681
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b293c39df7dc824ba0c2be4b8685af7
+      internalID: -4032327174746619097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 597
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9054de5e55d91a34d96925813a7c2c89
+      internalID: -4027353343910029885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_41
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 373
+        width: 137
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e605d5fdc595bf4fa5858f980da5ead
+      internalID: 5836612171856306904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_42
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 439
+        width: 137
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed88f8adf65185849aeffe560ce2cf40
+      internalID: 4372283017513038305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrimerButtons_43
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 166
+        width: 137
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb056f1f08864149b0171725a5c91b7
+      internalID: 1588678450670930601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
